@@ -1,4 +1,4 @@
-govkartha.github.io/js-clock/
+https://govkartha.github.io/js-clock/
 
 
 
